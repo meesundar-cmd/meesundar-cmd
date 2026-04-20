@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/meesundar" width="150" />
+ <img src="https://github.com/meesundar-cmd.png" width="150" />
 </p>
