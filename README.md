@@ -1,9 +1,14 @@
-<!-- 🔥 BANNER -->
+<!-- 🔥 PROFESSIONAL BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C9A7&height=200&section=header&text=Sundar%20Selvaraj&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sundar%20Selvaraj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=BCP%20%7C%20Operations%20%7C%20Resilience%20%7C%20AI&descSize=18&descAlignY=75" />
 </p>
 
+<!-- 👤 PROFILE IMAGE -->
+
+<p align="center">
+  <img src="https://github.com/meesundar-cmd.png" width="150" style="border-radius:50%;" />
+</p>
 
 <!-- ⚡ ANIMATED INTRO -->
 
@@ -14,10 +19,10 @@
 <!-- 🔗 SOCIAL BUTTONS -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sundar-selvaraj">
+  <a href="https://www.linkedin.com/in/sundar-selvaraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:meesundar1976@gmail.com">
+  <a href="mailto:meesundar1976@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -48,22 +53,15 @@
 
 ### 👉 BCP Resilience Framework
 
-https://github.com/meesundar-cmd/bcp-resilience-framework
+<p>
+  <a href="https://github.com/meesundar-cmd/bcp-resilience-framework" target="_blank">
+    Open Repository
+  </a>
+</p>
 
 ✔ Enterprise-grade BCP framework
 ✔ Covers **BIA, RTO/RPO, DR Strategy, Incident Response**
-✔ Includes **Mermaid diagrams & structured documentation**
-✔ Inspired by **ISO 27001 & NIST**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meesundar-cmd&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesundar-cmd" />
-</p>
+✔ Inspired by **ISO 27001**
 
 ---
 
