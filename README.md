@@ -29,7 +29,6 @@
 * 🔹 Business Operations & BCP Specialist
 * 🔹 Expertise in **Business Continuity, Crisis & Incident Management**
 * 🔹 Strong in **SLA Governance, Metrics, KPI Reporting**
-* 🔹 Building **AI-driven Healthcare Solutions**
 * 🔹 Hands-on with **Oracle APEX, Automation & Analytics**
 
 ---
