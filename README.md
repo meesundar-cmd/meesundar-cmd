@@ -1,6 +1,3 @@
-<p align="center">
- <img src="https://github.com/meesundar-cmd.png" width="150" />
-</p>
 <!-- 🔥 BANNER -->
 
 <p align="center">
@@ -86,4 +83,3 @@ that combine **data, automation, and human-centric design**
 <p align="center">
   ⭐ If you like my work, follow me and explore my repositories!
 </p>
-
