@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C9A7&height=200&section=header&text=Sundar%20Selvaraj&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 👤 PROFILE IMAGE -->
-
-<p align="center">
-  <img src="https://github.com/meesundar-cmd.png" width="150" style="border-radius:50%;" />
-</p>
 
 <!-- ⚡ ANIMATED INTRO -->
 
